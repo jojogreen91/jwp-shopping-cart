@@ -36,6 +36,8 @@ out/
 ### VS Code ###
 .vscode/
 
-/test/
+.DS_Store
 
-application.properties
+### Publish ###
+src/main/resources
+src/test
